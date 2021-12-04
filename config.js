@@ -1,6 +1,7 @@
 module.exports = {
     app: {
         px: 'y.',
+        token: 'ODk2NDQ4OTA2MTk4NjU1MDA2.YWHRGg.0fZUP2IRHCzXM9KI66jPHqpjIqg',
         playing: `y.help | ${client.guilds.cache.size} Servern`
     },
 
